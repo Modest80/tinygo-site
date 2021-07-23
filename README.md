@@ -1,24 +1,24 @@
-# TinyGo Web Site
+# TinyGo Веб Сайт
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83fc0c21-220b-4d35-ad59-3d48f31bb4b6/deploy-status)](https://app.netlify.com/sites/tinygo/deploys)
 
-This is the web site for TinyGo.
+Это Веб Сайт для TinyGo.
 
-Built using Hugo:
+Собирается с использованием Hugo:
 
 http://gohugo.io/
 
-and the Hugo "Docsy" theme:
+и Hugo темы "Docsy":
 
 https://github.com/google/docsy
 
-## Prerequisites
+## Подготовка
 
 Install Hugo command line tool for your operating system with the "extended" option, along with the needed NodeJS modules for processing the site CSS:
 
 https://www.docsy.dev/docs/getting-started/#prerequisites-and-installation
 
-## Installation
+## Установка
 
 Clone this repo using:
 
